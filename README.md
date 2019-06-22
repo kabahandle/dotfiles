@@ -32,7 +32,8 @@ do ln -s for involving your sweet dotfile(s).
 alias git pull on the ~/.bashrc
 
 such like:
-alias dotpush="( cd ~/projects/dotfiles; git pull origin master )"
+
+alias dotpull="( cd ~/projects/dotfiles; git pull origin master )"
 
 ![alias git pull on the ~/.bashrc](https://github.com/kabahandle/images/blob/master/20190622_dotfiles_images/09_src2_bashrc.png)
 
