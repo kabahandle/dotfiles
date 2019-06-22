@@ -5,6 +5,10 @@ for Cygwin or Linux Dotfiles Management
 
 ### mkdir -p ~/projects/ditfiles; cd ~/projects
 
+CAUTION! not cd ~/projects/dotfies, but cd ~/projects!
+
+This image is bit wrong.
+
 ![mkdir -p ~/projects/ditfiles and cd](https://github.com/kabahandle/images/blob/master/20190622_dotfiles_images/05_CentOS_cd_dotfiles.png)
 
 ### git clone https://github.com/kabahandle/dotfiles.git
