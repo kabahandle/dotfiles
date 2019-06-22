@@ -3,7 +3,7 @@ for Cygwin or Linux Dotfiles Management
 
 ## usage
 
-### mkdir -p ~/projects/dtfiles; cd ~/projects
+### mkdir -p ~/projects/dotfiles; cd ~/projects
 
 CAUTION! not cd ~/projects/dotfies, but cd ~/projects!
 
