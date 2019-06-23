@@ -30,6 +30,17 @@ alias alic="grep '^[#\s]*alias' ~/.bashrc | less"
 alias la="ls -a"
 alias lal="ls -al"
 
+# ali for emacs shell-mode
+alias alie="grep ^alias ~/.bashrc"
+alias alice="grep '^[#\s]*alias' ~/.bashrc"
+
+# ali for ~/bashrc2.sh 
+alias ali2="grep ^alias ~/bashrc2.sh | less"
+alias alic2="grep '^[#\s]*alias' ~/bashrc2.sh | less"
+alias alie2="grep ^alias ~/bashrc2.sh"
+alias alice2="grep '^[#\s]*alias' ~/bashrc2.sh"
+
+
 
 #------------ bash_history ----------------------
 alias bkh="cp -f ~/.bash_history ~/bash_history_copied"
