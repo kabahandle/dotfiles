@@ -93,3 +93,13 @@ export LANG="ja_JP.UTF-8"
 #export xwin="startxwin"
 #alias x4="~/bin/runX410.sh"
 alias xf="xfce4-terminal"
+
+# ------------- dotfiles -----------------------
+alias dotpush="( cd ~/projects/dotfiles; git push origin master )"
+alias dotcd="cd ~/projects/dotfiles"
+alias dotpull="( cd ~/projects/dotfiles; git pull origin master )"
+alias imagepush="( cd ~/projects/images; git push origin master )"
+alias ecd="emacsclient -t ~/.bashrc ~/bashrc2.sh"
+alias src2="source ~/bashrc2.sh"
+alias lessdot="less ~/projects/dotfiles/bashrc2.sh"
+
