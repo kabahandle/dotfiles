@@ -16,13 +16,16 @@ alias cdp="cd /etc/postfix"
 alias cdn="cd /etc/nginx/conf.d"
 alias cdh="cd /etc/httpd/conf.d"
 alias cdl="cd /var/log"
+alias cdlh="cd /var/log/httpd"
+alias cdlz="cd /var/zabbix"
 
 alias pse="pushd /etc"
 alias psp="pushd /etc/postfix"
 alias psn="pushd /etc/nginx/conf.d"
 alias psh="pushd /etc/httpd/conf.d"
 alias psl="pushd /var/log"
-
+alias pslh="pushd /var/log/httpd"
+alias pslz="pushd /var/log/zabbix"
 
 #------------ alias ----------------------
 alias ali="grep ^alias ~/.bashrc | less"
