@@ -17,7 +17,7 @@ alias cdn="cd /etc/nginx/conf.d"
 alias cdh="cd /etc/httpd/conf.d"
 alias cdl="cd /var/log"
 alias cdlh="cd /var/log/httpd"
-alias cdlz="cd /var/zabbix"
+alias cdlz="cd /var/log/zabbix"
 
 alias pse="pushd /etc"
 alias psp="pushd /etc/postfix"
