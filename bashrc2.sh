@@ -18,6 +18,7 @@ alias cdh="cd /etc/httpd/conf.d"
 alias cdl="cd /var/log"
 alias cdlh="cd /var/log/httpd"
 alias cdlz="cd /var/log/zabbix"
+alias cdw="cd /var/www/html"
 
 alias pse="pushd /etc"
 alias psp="pushd /etc/postfix"
@@ -26,6 +27,7 @@ alias psh="pushd /etc/httpd/conf.d"
 alias psl="pushd /var/log"
 alias pslh="pushd /var/log/httpd"
 alias pslz="pushd /var/log/zabbix"
+alias psw="pushd /var/www/html"
 
 #------------ alias ----------------------
 alias ali="grep ^alias ~/.bashrc | less"
