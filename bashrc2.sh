@@ -105,3 +105,18 @@ alias ecd="emacsclient -t ~/.bashrc ~/bashrc2.sh"
 alias src2="source ~/bashrc2.sh"
 alias lessdot="less ~/projects/dotfiles/bashrc2.sh"
 
+
+# ------------ docker --------------
+alias dps="docker container ps -a"
+alias dstop="docker container stop "
+alias drm="docker container rm "
+alias dstart="docker container start "
+alias drestart="docker container restart "
+alias dils="docker image ls "
+alias dirmi="docker image rmi "
+alias dnls="docker network ls "
+alias dncre="docker network create "
+alias dcupd="docker-compose up -d "
+alias dcwn="docker-compose down "
+
+
