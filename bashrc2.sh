@@ -108,6 +108,7 @@ alias lessdot="less ~/projects/dotfiles/bashrc2.sh"
 
 # ------------ docker --------------
 alias dps="docker container ps -a"
+alias dsize="docker container ps -a -s "
 alias dstop="docker container stop "
 alias drm="docker container rm "
 alias dstart="docker container start "
@@ -117,6 +118,6 @@ alias dirmi="docker image rmi "
 alias dnls="docker network ls "
 alias dncre="docker network create "
 alias dcupd="docker-compose up -d "
-alias dcwn="docker-compose down "
+alias dcdw="docker-compose down "
 
 
