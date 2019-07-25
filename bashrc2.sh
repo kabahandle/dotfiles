@@ -1,9 +1,9 @@
 #------------ ls ----------------------
 #export LS_OPTIONS="-cCF --color=never"
-export LS_OPTIONS="-cCF"
-alias ls="ls $LS_OPTIONS"
+#export LS_OPTIONS="-cCF"
+#alias ls="ls $LS_OPTIONS"
 #alias l="ls"
-alias l="ls $LS_OPTIONS"
+#alias l="ls $LS_OPTIONS"
 alias la="ls -a"
 alias ll="ls -l"
 alias lla="ls -al"
