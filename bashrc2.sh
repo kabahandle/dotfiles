@@ -119,5 +119,6 @@ alias dnls="docker network ls "
 alias dncre="docker network create "
 alias dcupd="docker-compose up -d "
 alias dcdw="docker-compose down "
+alias dstat="docker stats "
 
 
